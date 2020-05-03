@@ -1,12 +1,12 @@
-### My Experiment
+### 실험 목록
 
 ---
 
-| No.  | Title                                                        | Topics                                          | Date                  |
-| ---- | ------------------------------------------------------------ | ----------------------------------------------- | --------------------- |
-| 1    | [Compile from library,<br />Change output folder in Makefile<br />Coloring in Makefile](./01library_Makefile/README.md) | `Library`, `Makefile`,`C`                       | 2020.05.01~2020.05.02 |
-| 2    | [What's different between Hard Link and Symbolic Link](./02link/README.md) | `Hard Link`,<br />`Symbolic link`,<br />`Shell` | 2020.05.03            |
-|      |                                                              |                                                 |                       |
-|      |                                                              |                                                 |                       |
-|      |                                                              |                                                 |                       |
+| No.  | 타이틀                                                       | 주제                                            | 비고                                                       |
+| ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------- |
+| 1    | [Library을 이용한 컴파일(Makefile로 자동화)<br />Makefile에서 output파일들 폴더지정,<br />Makefile에서 글씨 색상 입히기](./01library_Makefile/README.md) | `Library`, `Makefile`,`C`                       | 좀 더 내용이 많아지면 분리 필요<br />2020.05.01~2020.05.02 |
+| 2    | [Symbolic Link와 Hard Link의 차이 및 관찰](./02link/README.md) | `Hard Link`,<br />`Symbolic link`,<br />`Shell` | 2020.05.03                                                 |
+|      |                                                              |                                                 |                                                            |
+|      |                                                              |                                                 |                                                            |
+|      |                                                              |                                                 |                                                            |
 
