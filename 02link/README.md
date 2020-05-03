@@ -58,6 +58,6 @@ https://webdir.tistory.com/148
 
 ### 4. Symbolic link를 github에 푸쉬했을 때
 
-### ![image-20200503221449865](/Users/taelee/42cursus/000experiment/02link/imgs/image-20200503221449865.png) 
+### ![image-20200503221449865](./imgs/image-20200503221449865.png) 
 
 이런식으로 파일이 저장되지 않고 경로만 나옴. 다른 곳에서 다운받으면 제대로 실행이 안 될것으로 예상
