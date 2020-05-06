@@ -4,11 +4,22 @@
 
 | No.  | 타이틀                                                       |                    주제                     |                            비고                            |
 | ---- | ------------------------------------------------------------ | :-----------------------------------------: | :--------------------------------------------------------: |
-| 1    | [Library을 이용한 컴파일(Makefile로 자동화)<br />Makefile에서 output파일들 폴더지정,<br />Makefile에서 글씨 색상 입히기](./01library_Makefile/README.md) |          `C`,`Library`, `Makefile`          | 좀 더 내용이 많아지면 분리 필요<br />2020.05.01~2020.05.02 |
-| 2    | [Symbolic Link와 Hard Link의 차이 및 관찰](./02link/README.md) |  `Shell`,`Hard Link`,<br />`Symbolic Link`  |                         2020.05.03                         |
-| 3    | [bool 라이브러리 직접정의하기](04bool/README.md)             | `C`,`bool`, `stdbool.h`,`typedef`, `define` |                         2020.05.05                         |
-| 4    | [메모리 누수 검사 방법](05leak/README.md)                    |            `C`,`leaks`,`system`             |                         2020.05.05                         |
-|      |                                                              |                                             |                                                            |
+| 04   | [메모리 누수 검사 방법](05leak/README.md)                    |            `C`,`leaks`,`system`             |                         2020.05.05                         |
+| 03   | [bool 라이브러리 직접정의하기](04bool/README.md)             | `C`,`bool`, `stdbool.h`,`typedef`, `define` |                         2020.05.05                         |
+| 02   | [Symbolic Link와 Hard Link의 차이 및 관찰](./02link/README.md) |  `Shell`,`Hard Link`,<br />`Symbolic Link`  |                         2020.05.03                         |
+| 01   | [Library을 이용한 컴파일(Makefile로 자동화)<br />Makefile에서 output파일들 폴더지정,<br />Makefile에서 글씨 색상 입히기](./01library_Makefile/README.md) |          `C`,`Library`, `Makefile`          | 좀 더 내용이 많아지면 분리 필요<br />2020.05.01~2020.05.02 |
+
+
+
+### leetcode 트라이
+
+---
+
+
+
+| No.  | Problem                                                      |               Date                |               Solution               |  Topic  | P/F  |
+| :--: | ------------------------------------------------------------ | :-------------------------------: | :----------------------------------: | :-----: | ---- |
+|  20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 2020.05.05<br />~<br />2020.05.06 | [C](00leetcode/20valid_parenthese.c) | `stack` | Pass |
 
 
 
